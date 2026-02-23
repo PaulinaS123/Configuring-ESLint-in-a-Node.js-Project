@@ -6,6 +6,12 @@ The objective of this assignment was to  setting up and configuring ESLint in a 
 
 ---
 
+### Dependencies 
+
+- eslint ^10.0.0
+- @eslint/js ^10.0.1
+- globals ^17.3.0
+
 ## Steps 
 
 ### 1. Initialized a New Node.js Project
